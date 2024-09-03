@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rehaanahmadgit/Rehaanahmadgit/blob/main/compressed_1000032961.png)
 <h1 align="center">Hi 👋, I'm Rehaan Ahmad</h1>
 <h3 align="center">I am an enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in IT branch.</h3>
 <img align ="right" alt="codding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
